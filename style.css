@@ -1,0 +1,82 @@
+body{
+background-color: black;
+font-family:  Verdana;
+color: white;
+}
+header{
+    text-align: center;
+    height: 1000px;
+    background-image: url(vadasa_to/6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+}
+#Tisza{
+    padding-left: 30%;
+    position: relative;
+    right: -115px;
+    top: 100px;
+}
+#Vadas{
+    padding-left: 75%;
+    position: relative;
+    right: -540px;
+    top: 0px;
+}
+#Pécsi{
+    padding-left: 30%;
+    position: relative;
+    right: -115px;
+    top: 100px;
+}
+#Bánki{
+    padding-left: 75%;
+    position: relative;
+    right: -540px;
+}
+img{
+    width: 15%;
+}
+#img1{
+    position: relative;
+    right: -250px;
+    width: 45%;
+    top: 100px;
+    border-radius: 20px;
+}
+#img2{
+    position: relative;
+    right:-950px;
+    width: 75%;
+    border-radius: 20px;
+}
+p{
+    width: 75%;
+    position: relative;
+    right: -250px;
+    top: 100px;
+}
+#p{
+    padding-left: 50px;
+}
+#p1{
+    text-align: justify;
+    padding-right: 300px;
+}
+#p2{
+    position: relative;
+    text-align: justify;
+    right:-950px;
+    top: 10px;
+}
+h1{
+    padding-top: 300px;
+    padding-left: 50px;
+    color: black;
+    font-size: 100px;
+}
+#pszöveg{
+   text-align:justify;
+   position: relative;
+   top: -5px;
+}
